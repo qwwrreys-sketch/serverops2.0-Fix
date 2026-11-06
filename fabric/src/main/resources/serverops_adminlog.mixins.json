@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.serverops.fabric.adminlog.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "OpsServiceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
